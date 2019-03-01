@@ -2,11 +2,11 @@
 	Typedef and definitions	*/
 
 /*---------------------------------------------------------------------------*/
-#define SINK_NODE_ID 43654
-#define SOURCE_NODE_ID 20231
+#define SINK_NODE_ID 52739
+#define SOURCE_NODE_ID 25351
 /*---------------------------------------------------------------------------*/
-#define SENDING_RATE RTIMER_SECOND          // 1 HZ
-// #define SENDING_RATE RTIMER_SECOND / 10  // 10 HZ
+// #define SENDING_RATE RTIMER_SECOND          // 1 HZ
+#define SENDING_RATE RTIMER_SECOND / 10  // 10 HZ
 // #define SENDING_RATE RTIMER_SECOND / 100 // 100 HZ
 /*---------------------------------------------------------------------------*/
 // #define PACKET_SIZE 12  // size in Bytes
