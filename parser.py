@@ -6,12 +6,11 @@ def main():
 
     with open('32_1_26_MAC.csv', 'r') as csvfile:
         csvreader = csv.reader(csvfile)
-        for i in range(0, 20):
-            next(csvreader, None)
-        attributes = next(csvreader)[3].split()
-        packetSize = int(attributes[1])
-        sendingRate = int(attributes[4])
         for row in csvreader:
+            attributes = next(csvreader)[3].split()
+            packetSize = int(attributes[1])
+            sendingRate = int(attributes[4])
+            next(csvreader, None)
             packetNumAndTimeStamp = row[3].split()
             packetNum = packetNumAndTimeStamp[5]
             timeStamp = packetNumAndTimeStamp[8]
@@ -22,7 +21,7 @@ def main():
         print(getLossRatio(arrayOfPacketNums, sendingRate))
 
 def getThroughput(arrayOfPacketNums, arrayOfTimeStamps, packetSize):
-    return len(arrayOfPacketNums) * packetSize * 8 / arrayOfTimeStamps[len(arrayOfTimeStamps)-1]
+    return len(arrayOfPacketNums) * packetSize * 8 / (arrayOfTimeStamps[len(arrayOfTimeStamps)-1] - arrayOfTimeStamps[0])
 
 def getLossRatio(arrayOfPacketNums, sendingRate):
     # totalPackets = 10 minutes * 60 secondss * sendingRate
