@@ -27,6 +27,7 @@ broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
   if(received_packet.dst_id == node_id && node_id == SINK_NODE_ID){
     leds_on(LEDS_RED);
     printf("Received packet with sequence number %lu and timestamp %3lu.%03lu\n", received_packet.seq, received_packet.timestamp[0] / 1000, received_packet.timestamp[0] % 1000);
+    printf("Size: %d and Rate: %d\n",PACKET_SIZE, SENDING_RATE);
     leds_off(LEDS_RED);
   }
 }
@@ -71,6 +72,9 @@ PROCESS_THREAD(cc2650_comm_process, ev, data)
   serial_line_init();
   #endif
 
+
+  printf("node ID: %d", node_id);
+  
   if(node_id == SOURCE_NODE_ID){ // source
     printf("CC2650 communication - I'm source\n");
     printf("Will be sending packet of size %d Bytes\n", (int)sizeof(data_packet_struct));
@@ -86,6 +90,7 @@ PROCESS_THREAD(cc2650_comm_process, ev, data)
     printf("CC2650 communication - I'm sink\n");
     leds_on(LEDS_GREEN);
   }
+
   PROCESS_END();
 }
 /*---------------------------------------------------------------------------*/
