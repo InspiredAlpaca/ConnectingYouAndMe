@@ -1,0 +1,1556 @@
+{"value": "Received packet with sequence number 3705 and timestamp 370.562", "time": "2019-03-08T18:36:44.017265Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.019489Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3706 and timestamp 370.664", "time": "2019-03-08T18:36:44.110757Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.112895Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3707 and timestamp 370.765", "time": "2019-03-08T18:36:44.204261Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.206377Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3709 and timestamp 370.968", "time": "2019-03-08T18:36:44.420598Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.422709Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3710 and timestamp 371.062", "time": "2019-03-08T18:36:44.517304Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.519400Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3711 and timestamp 371.164", "time": "2019-03-08T18:36:44.610800Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.612922Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3712 and timestamp 371.265", "time": "2019-03-08T18:36:44.704166Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.706276Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3714 and timestamp 371.468", "time": "2019-03-08T18:36:44.920439Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:44.922599Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3715 and timestamp 371.562", "time": "2019-03-08T18:36:45.017191Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.019298Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3716 and timestamp 371.664", "time": "2019-03-08T18:36:45.110719Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.112812Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3717 and timestamp 371.765", "time": "2019-03-08T18:36:45.204070Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.206177Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3719 and timestamp 371.960", "time": "2019-03-08T18:36:45.420450Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.422623Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3720 and timestamp 372.062", "time": "2019-03-08T18:36:45.517165Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.519201Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3721 and timestamp 372.164", "time": "2019-03-08T18:36:45.610591Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.612827Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3722 and timestamp 372.265", "time": "2019-03-08T18:36:45.703970Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.706280Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3724 and timestamp 372.460", "time": "2019-03-08T18:36:45.920471Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:45.922591Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3725 and timestamp 372.562", "time": "2019-03-08T18:36:46.017307Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.019419Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3726 and timestamp 372.664", "time": "2019-03-08T18:36:46.110481Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.112717Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3727 and timestamp 372.765", "time": "2019-03-08T18:36:46.203981Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.206093Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3729 and timestamp 372.960", "time": "2019-03-08T18:36:46.420355Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.422517Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3730 and timestamp 373.062", "time": "2019-03-08T18:36:46.517014Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.519103Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3731 and timestamp 373.164", "time": "2019-03-08T18:36:46.610497Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.612621Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3732 and timestamp 373.265", "time": "2019-03-08T18:36:46.704000Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.706100Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3734 and timestamp 373.460", "time": "2019-03-08T18:36:46.923566Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:46.925682Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3735 and timestamp 373.562", "time": "2019-03-08T18:36:47.016939Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.019007Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3736 and timestamp 373.664", "time": "2019-03-08T18:36:47.110398Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.112504Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3737 and timestamp 373.765", "time": "2019-03-08T18:36:47.203901Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.206008Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3738 and timestamp 373.867", "time": "2019-03-08T18:36:47.326655Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.328930Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3739 and timestamp 373.960", "time": "2019-03-08T18:36:47.423410Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.425519Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3740 and timestamp 374.062", "time": "2019-03-08T18:36:47.516943Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.519020Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3741 and timestamp 374.164", "time": "2019-03-08T18:36:47.610418Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.612523Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3742 and timestamp 374.265", "time": "2019-03-08T18:36:47.707047Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.709181Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3743 and timestamp 374.367", "time": "2019-03-08T18:36:47.826690Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.828925Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3744 and timestamp 374.460", "time": "2019-03-08T18:36:47.923315Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:47.925423Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3745 and timestamp 374.562", "time": "2019-03-08T18:36:48.016964Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.018930Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3746 and timestamp 374.664", "time": "2019-03-08T18:36:48.110326Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.112429Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3747 and timestamp 374.765", "time": "2019-03-08T18:36:48.207086Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.209210Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3748 and timestamp 374.867", "time": "2019-03-08T18:36:48.326595Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.328830Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3749 and timestamp 374.960", "time": "2019-03-08T18:36:48.423342Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.425464Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3750 and timestamp 375.062", "time": "2019-03-08T18:36:48.516753Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.518960Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3751 and timestamp 375.164", "time": "2019-03-08T18:36:48.610298Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.612405Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3752 and timestamp 375.265", "time": "2019-03-08T18:36:48.706993Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.709107Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3753 and timestamp 375.367", "time": "2019-03-08T18:36:48.826490Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.828739Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3754 and timestamp 375.460", "time": "2019-03-08T18:36:48.923247Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:48.925357Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3755 and timestamp 375.562", "time": "2019-03-08T18:36:49.016769Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.018988Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3756 and timestamp 375.664", "time": "2019-03-08T18:36:49.110134Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.112235Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3757 and timestamp 375.765", "time": "2019-03-08T18:36:49.206877Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.209004Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3758 and timestamp 375.867", "time": "2019-03-08T18:36:49.329765Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.331991Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3759 and timestamp 375.960", "time": "2019-03-08T18:36:49.423268Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.425383Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3760 and timestamp 376.062", "time": "2019-03-08T18:36:49.516654Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.518746Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3761 and timestamp 376.164", "time": "2019-03-08T18:36:49.610151Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.615314Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3762 and timestamp 376.265", "time": "2019-03-08T18:36:49.706976Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.709099Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3763 and timestamp 376.367", "time": "2019-03-08T18:36:49.829666Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.831765Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3764 and timestamp 376.460", "time": "2019-03-08T18:36:49.923167Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:49.925282Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3765 and timestamp 376.562", "time": "2019-03-08T18:36:50.016691Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.018766Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3766 and timestamp 376.664", "time": "2019-03-08T18:36:50.110040Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.112148Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3767 and timestamp 376.765", "time": "2019-03-08T18:36:50.206792Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.209060Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3768 and timestamp 376.867", "time": "2019-03-08T18:36:50.329673Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.331779Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3769 and timestamp 376.960", "time": "2019-03-08T18:36:50.423039Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.425154Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3770 and timestamp 377.062", "time": "2019-03-08T18:36:50.516561Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.518661Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3771 and timestamp 377.164", "time": "2019-03-08T18:36:50.613318Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.615420Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3772 and timestamp 377.265", "time": "2019-03-08T18:36:50.706695Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.708814Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3773 and timestamp 377.367", "time": "2019-03-08T18:36:50.829649Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.831753Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3774 and timestamp 377.460", "time": "2019-03-08T18:36:50.923099Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:50.925205Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3775 and timestamp 377.562", "time": "2019-03-08T18:36:51.016473Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.018693Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3776 and timestamp 377.664", "time": "2019-03-08T18:36:51.113222Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.115319Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3777 and timestamp 377.765", "time": "2019-03-08T18:36:51.206711Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.208829Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3778 and timestamp 377.867", "time": "2019-03-08T18:36:51.329472Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.331575Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3779 and timestamp 377.960", "time": "2019-03-08T18:36:51.422970Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.425095Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3780 and timestamp 378.062", "time": "2019-03-08T18:36:51.516473Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.518652Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3781 and timestamp 378.164", "time": "2019-03-08T18:36:51.613184Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.615345Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3782 and timestamp 378.265", "time": "2019-03-08T18:36:51.706610Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.708727Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3783 and timestamp 378.367", "time": "2019-03-08T18:36:51.829628Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.831681Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3784 and timestamp 378.460", "time": "2019-03-08T18:36:51.922940Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:51.925123Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3785 and timestamp 378.562", "time": "2019-03-08T18:36:52.016386Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.018487Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3786 and timestamp 378.664", "time": "2019-03-08T18:36:52.113204Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.115306Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3787 and timestamp 378.765", "time": "2019-03-08T18:36:52.206539Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.208627Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3788 and timestamp 378.867", "time": "2019-03-08T18:36:52.329398Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.331501Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3789 and timestamp 378.960", "time": "2019-03-08T18:36:52.422888Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.425029Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3790 and timestamp 379.062", "time": "2019-03-08T18:36:52.516264Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.518459Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3791 and timestamp 379.164", "time": "2019-03-08T18:36:52.613185Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.615201Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3792 and timestamp 379.265", "time": "2019-03-08T18:36:52.706562Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.708681Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3793 and timestamp 379.367", "time": "2019-03-08T18:36:52.829293Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.831396Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3794 and timestamp 379.460", "time": "2019-03-08T18:36:52.922794Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:52.924909Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3795 and timestamp 379.562", "time": "2019-03-08T18:36:53.016314Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.018459Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3796 and timestamp 379.664", "time": "2019-03-08T18:36:53.112928Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.115158Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3797 and timestamp 379.765", "time": "2019-03-08T18:36:53.206446Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.208530Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3798 and timestamp 379.867", "time": "2019-03-08T18:36:53.329319Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.331410Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3799 and timestamp 379.960", "time": "2019-03-08T18:36:53.422683Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.424934Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3800 and timestamp 380.062", "time": "2019-03-08T18:36:53.519438Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.521549Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3801 and timestamp 380.164", "time": "2019-03-08T18:36:53.612971Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.615078Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3802 and timestamp 380.265", "time": "2019-03-08T18:36:53.706376Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.708447Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3803 and timestamp 380.367", "time": "2019-03-08T18:36:53.829353Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.831449Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3804 and timestamp 380.460", "time": "2019-03-08T18:36:53.922722Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:53.924836Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3805 and timestamp 380.562", "time": "2019-03-08T18:36:54.019360Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.021583Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3806 and timestamp 380.664", "time": "2019-03-08T18:36:54.112853Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.114950Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3807 and timestamp 380.765", "time": "2019-03-08T18:36:54.206349Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.208452Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3808 and timestamp 380.867", "time": "2019-03-08T18:36:54.329235Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.331334Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3809 and timestamp 380.960", "time": "2019-03-08T18:36:54.422607Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.424718Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3810 and timestamp 381.062", "time": "2019-03-08T18:36:54.519374Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.521475Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3811 and timestamp 381.164", "time": "2019-03-08T18:36:54.612755Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.614983Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3812 and timestamp 381.265", "time": "2019-03-08T18:36:54.706253Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.708360Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3813 and timestamp 381.367", "time": "2019-03-08T18:36:54.829144Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.831245Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3814 and timestamp 381.460", "time": "2019-03-08T18:36:54.922646Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:54.924756Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3815 and timestamp 381.562", "time": "2019-03-08T18:36:55.019283Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.021391Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3816 and timestamp 381.664", "time": "2019-03-08T18:36:55.112781Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.114865Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3817 and timestamp 381.765", "time": "2019-03-08T18:36:55.206277Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.208373Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3818 and timestamp 381.867", "time": "2019-03-08T18:36:55.329122Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.331341Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3819 and timestamp 381.960", "time": "2019-03-08T18:36:55.422659Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.424773Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3820 and timestamp 382.062", "time": "2019-03-08T18:36:55.519276Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.521382Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3821 and timestamp 382.164", "time": "2019-03-08T18:36:55.612674Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.614894Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3822 and timestamp 382.265", "time": "2019-03-08T18:36:55.706163Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.708267Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3823 and timestamp 382.367", "time": "2019-03-08T18:36:55.829128Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.831240Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3824 and timestamp 382.460", "time": "2019-03-08T18:36:55.922430Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:55.924673Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3825 and timestamp 382.562", "time": "2019-03-08T18:36:56.019210Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:56.021321Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3826 and timestamp 382.664", "time": "2019-03-08T18:36:56.295320Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:56.297561Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3827 and timestamp 382.765", "time": "2019-03-08T18:36:56.988098Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:56.990376Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3829 and timestamp 382.960", "time": "2019-03-08T18:36:57.206872Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.209106Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3830 and timestamp 383.062", "time": "2019-03-08T18:36:57.266366Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.268529Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3831 and timestamp 383.164", "time": "2019-03-08T18:36:57.520378Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.522542Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3832 and timestamp 383.265", "time": "2019-03-08T18:36:57.528256Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.530360Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3833 and timestamp 383.367", "time": "2019-03-08T18:36:57.558624Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.560743Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3831 and timestamp 383.164", "time": "2019-03-08T18:36:57.610998Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.613120Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3833 and timestamp 383.367", "time": "2019-03-08T18:36:57.642624Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.644741Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3839 and timestamp 383.960", "time": "2019-03-08T18:36:57.798026Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.800121Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3842 and timestamp 384.265", "time": "2019-03-08T18:36:57.922895Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:57.925011Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3845 and timestamp 384.562", "time": "2019-03-08T18:36:58.018953Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.021146Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3846 and timestamp 384.664", "time": "2019-03-08T18:36:58.112492Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.114518Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3848 and timestamp 384.867", "time": "2019-03-08T18:36:58.328737Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.330914Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3849 and timestamp 384.960", "time": "2019-03-08T18:36:58.425429Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.427523Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3850 and timestamp 385.062", "time": "2019-03-08T18:36:58.518785Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.521046Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3851 and timestamp 385.164", "time": "2019-03-08T18:36:58.612401Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.614392Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3853 and timestamp 385.367", "time": "2019-03-08T18:36:58.828685Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.830852Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3854 and timestamp 385.460", "time": "2019-03-08T18:36:58.925455Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:58.927548Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3855 and timestamp 385.562", "time": "2019-03-08T18:36:59.018826Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:59.020935Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3858 and timestamp 385.867", "time": "2019-03-08T18:36:59.331821Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:59.333931Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3859 and timestamp 385.960", "time": "2019-03-08T18:36:59.425336Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:59.427443Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3860 and timestamp 386.062", "time": "2019-03-08T18:36:59.518710Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:59.520833Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3863 and timestamp 386.367", "time": "2019-03-08T18:36:59.831842Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:59.838450Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3864 and timestamp 386.460", "time": "2019-03-08T18:36:59.925240Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:36:59.927449Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3865 and timestamp 386.562", "time": "2019-03-08T18:37:00.018731Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:00.020843Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3868 and timestamp 386.867", "time": "2019-03-08T18:37:00.331742Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:00.333909Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3869 and timestamp 386.960", "time": "2019-03-08T18:37:00.425258Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:00.427410Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3870 and timestamp 387.062", "time": "2019-03-08T18:37:00.518627Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:00.520735Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3873 and timestamp 387.367", "time": "2019-03-08T18:37:00.831815Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:00.833932Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3874 and timestamp 387.460", "time": "2019-03-08T18:37:00.925180Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:00.927273Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3875 and timestamp 387.562", "time": "2019-03-08T18:37:01.018519Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:01.020751Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3878 and timestamp 387.867", "time": "2019-03-08T18:37:01.331669Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:01.333776Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3879 and timestamp 387.960", "time": "2019-03-08T18:37:01.425057Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:01.427153Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3880 and timestamp 388.062", "time": "2019-03-08T18:37:01.518543Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:01.520671Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3883 and timestamp 388.367", "time": "2019-03-08T18:37:01.831629Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:01.833687Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3884 and timestamp 388.460", "time": "2019-03-08T18:37:01.924950Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:01.927167Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3885 and timestamp 388.562", "time": "2019-03-08T18:37:02.018575Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:02.020692Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3888 and timestamp 388.859", "time": "2019-03-08T18:37:02.331583Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:02.333755Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3889 and timestamp 388.960", "time": "2019-03-08T18:37:02.424972Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:02.427129Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3893 and timestamp 389.359", "time": "2019-03-08T18:37:02.831485Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:02.833585Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3894 and timestamp 389.460", "time": "2019-03-08T18:37:02.924864Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:02.926969Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3898 and timestamp 389.859", "time": "2019-03-08T18:37:03.331374Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:03.333486Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3899 and timestamp 389.960", "time": "2019-03-08T18:37:03.424773Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:03.426990Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3903 and timestamp 390.359", "time": "2019-03-08T18:37:03.831339Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:03.833531Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3904 and timestamp 390.460", "time": "2019-03-08T18:37:03.924781Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:03.926885Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3908 and timestamp 390.859", "time": "2019-03-08T18:37:04.331173Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:04.333411Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3909 and timestamp 390.960", "time": "2019-03-08T18:37:04.424689Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:04.426904Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3913 and timestamp 391.359", "time": "2019-03-08T18:37:04.831253Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:04.833492Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3918 and timestamp 391.859", "time": "2019-03-08T18:37:05.331094Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:05.333207Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3923 and timestamp 392.359", "time": "2019-03-08T18:37:05.831125Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:05.833248Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3928 and timestamp 392.859", "time": "2019-03-08T18:37:06.331065Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:06.333157Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3933 and timestamp 393.359", "time": "2019-03-08T18:37:06.830963Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:06.833179Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3938 and timestamp 393.859", "time": "2019-03-08T18:37:07.330987Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:07.333099Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3943 and timestamp 394.359", "time": "2019-03-08T18:37:07.830830Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:07.832956Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3957 and timestamp 395.765", "time": "2019-03-08T18:37:09.201329Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:09.203549Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3962 and timestamp 396.265", "time": "2019-03-08T18:37:09.701247Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:09.703406Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3967 and timestamp 396.765", "time": "2019-03-08T18:37:10.201225Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:10.206548Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3972 and timestamp 397.265", "time": "2019-03-08T18:37:10.701159Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:10.703186Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3977 and timestamp 397.765", "time": "2019-03-08T18:37:11.201097Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:11.203218Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3982 and timestamp 398.265", "time": "2019-03-08T18:37:11.704296Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:11.706354Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3987 and timestamp 398.765", "time": "2019-03-08T18:37:12.204312Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:12.206382Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3991 and timestamp 399.164", "time": "2019-03-08T18:37:12.607451Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:12.609572Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3992 and timestamp 399.265", "time": "2019-03-08T18:37:12.704152Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:12.706276Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3996 and timestamp 399.664", "time": "2019-03-08T18:37:13.107473Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:13.109599Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 3997 and timestamp 399.765", "time": "2019-03-08T18:37:13.204047Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:13.206171Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4001 and timestamp 400.164", "time": "2019-03-08T18:37:13.607311Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:13.609443Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4002 and timestamp 400.265", "time": "2019-03-08T18:37:13.704065Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:13.706192Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4006 and timestamp 400.664", "time": "2019-03-08T18:37:14.110530Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:14.112665Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4007 and timestamp 400.765", "time": "2019-03-08T18:37:14.203981Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:14.206096Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4010 and timestamp 401.062", "time": "2019-03-08T18:37:14.513732Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:14.515845Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4011 and timestamp 401.164", "time": "2019-03-08T18:37:14.610485Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:14.612612Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4012 and timestamp 401.265", "time": "2019-03-08T18:37:14.703861Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:14.706109Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4016 and timestamp 401.664", "time": "2019-03-08T18:37:15.110385Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:15.112505Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4017 and timestamp 401.765", "time": "2019-03-08T18:37:15.203888Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:15.206006Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4020 and timestamp 402.062", "time": "2019-03-08T18:37:15.513667Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:15.515780Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4021 and timestamp 402.164", "time": "2019-03-08T18:37:15.610279Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:15.612528Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4022 and timestamp 402.265", "time": "2019-03-08T18:37:15.703788Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:15.705915Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4025 and timestamp 402.562", "time": "2019-03-08T18:37:16.013593Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.015688Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4026 and timestamp 402.664", "time": "2019-03-08T18:37:16.110330Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.112440Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4027 and timestamp 402.765", "time": "2019-03-08T18:37:16.203708Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.205822Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4028 and timestamp 402.859", "time": "2019-03-08T18:37:16.297222Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.299321Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4030 and timestamp 403.062", "time": "2019-03-08T18:37:16.513498Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.515627Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4031 and timestamp 403.164", "time": "2019-03-08T18:37:16.610226Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.612510Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4032 and timestamp 403.265", "time": "2019-03-08T18:37:16.703602Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.705887Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4033 and timestamp 403.359", "time": "2019-03-08T18:37:16.797241Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:16.799216Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4035 and timestamp 403.562", "time": "2019-03-08T18:37:17.013500Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.015596Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4036 and timestamp 403.664", "time": "2019-03-08T18:37:17.110117Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.112226Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4037 and timestamp 403.765", "time": "2019-03-08T18:37:17.203677Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.205799Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4038 and timestamp 403.859", "time": "2019-03-08T18:37:17.297136Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.299231Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4040 and timestamp 404.062", "time": "2019-03-08T18:37:17.516660Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.518751Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4041 and timestamp 404.164", "time": "2019-03-08T18:37:17.610135Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.612244Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4042 and timestamp 404.265", "time": "2019-03-08T18:37:17.703515Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.705624Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4043 and timestamp 404.359", "time": "2019-03-08T18:37:17.797031Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:17.799255Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4045 and timestamp 404.562", "time": "2019-03-08T18:37:18.016540Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.018823Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4046 and timestamp 404.664", "time": "2019-03-08T18:37:18.110039Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.112273Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4047 and timestamp 404.765", "time": "2019-03-08T18:37:18.203539Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.205653Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4048 and timestamp 404.859", "time": "2019-03-08T18:37:18.297046Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.299275Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4049 and timestamp 404.960", "time": "2019-03-08T18:37:18.419797Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.422033Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4050 and timestamp 405.062", "time": "2019-03-08T18:37:18.516549Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.518661Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4051 and timestamp 405.164", "time": "2019-03-08T18:37:18.610050Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.612158Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4052 and timestamp 405.265", "time": "2019-03-08T18:37:18.703436Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.705548Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4053 and timestamp 405.359", "time": "2019-03-08T18:37:18.800205Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.802313Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4054 and timestamp 405.460", "time": "2019-03-08T18:37:18.919829Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:18.921944Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4055 and timestamp 405.562", "time": "2019-03-08T18:37:19.016468Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.018566Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4056 and timestamp 405.664", "time": "2019-03-08T18:37:19.109971Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.112076Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4057 and timestamp 405.765", "time": "2019-03-08T18:37:19.203457Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.205573Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4058 and timestamp 405.859", "time": "2019-03-08T18:37:19.300096Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.302335Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4059 and timestamp 405.960", "time": "2019-03-08T18:37:19.419727Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.421837Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4060 and timestamp 406.062", "time": "2019-03-08T18:37:19.516479Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.518655Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4061 and timestamp 406.164", "time": "2019-03-08T18:37:19.609872Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.611970Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4062 and timestamp 406.257", "time": "2019-03-08T18:37:19.703370Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.705481Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4063 and timestamp 406.359", "time": "2019-03-08T18:37:19.799994Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.802232Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4064 and timestamp 406.460", "time": "2019-03-08T18:37:19.922883Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:19.924994Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4065 and timestamp 406.562", "time": "2019-03-08T18:37:20.016398Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.018487Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4066 and timestamp 406.664", "time": "2019-03-08T18:37:20.109765Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.111866Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4067 and timestamp 406.757", "time": "2019-03-08T18:37:20.203260Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.210330Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4068 and timestamp 406.859", "time": "2019-03-08T18:37:20.300122Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.302212Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4069 and timestamp 406.960", "time": "2019-03-08T18:37:20.422783Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.425019Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4070 and timestamp 407.062", "time": "2019-03-08T18:37:20.516281Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.518386Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4071 and timestamp 407.164", "time": "2019-03-08T18:37:20.609851Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.611959Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4072 and timestamp 407.257", "time": "2019-03-08T18:37:20.703166Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.705409Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4073 and timestamp 407.359", "time": "2019-03-08T18:37:20.799919Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.802028Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4074 and timestamp 407.460", "time": "2019-03-08T18:37:20.922795Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:20.924911Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4075 and timestamp 407.562", "time": "2019-03-08T18:37:21.016187Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.018411Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4076 and timestamp 407.664", "time": "2019-03-08T18:37:21.109687Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.111794Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4077 and timestamp 407.757", "time": "2019-03-08T18:37:21.206448Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.208536Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4078 and timestamp 407.859", "time": "2019-03-08T18:37:21.299936Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.302051Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4079 and timestamp 407.960", "time": "2019-03-08T18:37:21.422694Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.424935Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4080 and timestamp 408.062", "time": "2019-03-08T18:37:21.516194Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.518435Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4081 and timestamp 408.164", "time": "2019-03-08T18:37:21.609716Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.611820Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4082 and timestamp 408.257", "time": "2019-03-08T18:37:21.706331Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.708444Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4083 and timestamp 408.359", "time": "2019-03-08T18:37:21.799835Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.801944Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4084 and timestamp 408.460", "time": "2019-03-08T18:37:21.922702Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:21.924821Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4085 and timestamp 408.562", "time": "2019-03-08T18:37:22.016293Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.018397Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4086 and timestamp 408.664", "time": "2019-03-08T18:37:22.109613Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.111709Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4087 and timestamp 408.757", "time": "2019-03-08T18:37:22.206359Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.208467Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4088 and timestamp 408.859", "time": "2019-03-08T18:37:22.299732Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.301969Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4089 and timestamp 408.960", "time": "2019-03-08T18:37:22.422613Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.424731Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4090 and timestamp 409.062", "time": "2019-03-08T18:37:22.516115Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.518222Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4091 and timestamp 409.164", "time": "2019-03-08T18:37:22.609627Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.611733Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4092 and timestamp 409.257", "time": "2019-03-08T18:37:22.706239Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.708350Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4093 and timestamp 409.359", "time": "2019-03-08T18:37:22.799762Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.801865Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4094 and timestamp 409.460", "time": "2019-03-08T18:37:22.922507Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:22.924749Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4095 and timestamp 409.562", "time": "2019-03-08T18:37:23.016029Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.018126Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4096 and timestamp 409.664", "time": "2019-03-08T18:37:23.109526Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.111634Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4097 and timestamp 409.757", "time": "2019-03-08T18:37:23.206150Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.208379Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4098 and timestamp 409.859", "time": "2019-03-08T18:37:23.299656Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.301764Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4099 and timestamp 409.960", "time": "2019-03-08T18:37:23.422535Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.424650Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4100 and timestamp 410.062", "time": "2019-03-08T18:37:23.515975Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.518032Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4101 and timestamp 410.164", "time": "2019-03-08T18:37:23.609438Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.611546Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4102 and timestamp 410.257", "time": "2019-03-08T18:37:23.706169Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.708272Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4103 and timestamp 410.359", "time": "2019-03-08T18:37:23.799540Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.801781Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4104 and timestamp 410.460", "time": "2019-03-08T18:37:23.922434Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:23.924539Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4105 and timestamp 410.562", "time": "2019-03-08T18:37:24.015946Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.018049Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4106 and timestamp 410.664", "time": "2019-03-08T18:37:24.112714Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.114796Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4107 and timestamp 410.757", "time": "2019-03-08T18:37:24.206072Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.208301Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4108 and timestamp 410.859", "time": "2019-03-08T18:37:24.299626Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.301778Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4109 and timestamp 410.960", "time": "2019-03-08T18:37:24.422338Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.424564Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4110 and timestamp 411.062", "time": "2019-03-08T18:37:24.515828Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.517938Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4111 and timestamp 411.164", "time": "2019-03-08T18:37:24.612668Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.614763Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4112 and timestamp 411.257", "time": "2019-03-08T18:37:24.705973Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.708198Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4113 and timestamp 411.359", "time": "2019-03-08T18:37:24.799535Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.801658Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4114 and timestamp 411.460", "time": "2019-03-08T18:37:24.922291Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:24.924526Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4115 and timestamp 411.562", "time": "2019-03-08T18:37:25.015749Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.017845Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4116 and timestamp 411.664", "time": "2019-03-08T18:37:25.112488Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.114592Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4117 and timestamp 411.757", "time": "2019-03-08T18:37:25.205989Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.208093Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4118 and timestamp 411.859", "time": "2019-03-08T18:37:25.299481Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.301594Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4119 and timestamp 411.960", "time": "2019-03-08T18:37:25.422248Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.424356Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4120 and timestamp 412.062", "time": "2019-03-08T18:37:25.515752Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.517860Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4121 and timestamp 412.164", "time": "2019-03-08T18:37:25.612512Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.614626Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4122 and timestamp 412.257", "time": "2019-03-08T18:37:25.705892Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.707998Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4123 and timestamp 412.359", "time": "2019-03-08T18:37:25.799401Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.801513Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4124 and timestamp 412.460", "time": "2019-03-08T18:37:25.922145Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:25.924247Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4125 and timestamp 412.562", "time": "2019-03-08T18:37:26.015782Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.017887Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4126 and timestamp 412.664", "time": "2019-03-08T18:37:26.112405Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.114512Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4127 and timestamp 412.757", "time": "2019-03-08T18:37:26.205910Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.208010Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4128 and timestamp 412.859", "time": "2019-03-08T18:37:26.299289Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.301398Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4129 and timestamp 412.960", "time": "2019-03-08T18:37:26.422167Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.424273Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4130 and timestamp 413.062", "time": "2019-03-08T18:37:26.515666Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.517787Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4131 and timestamp 413.164", "time": "2019-03-08T18:37:26.612306Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.614684Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4132 and timestamp 413.257", "time": "2019-03-08T18:37:26.705849Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.707920Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4133 and timestamp 413.359", "time": "2019-03-08T18:37:26.799351Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.801527Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4134 and timestamp 413.460", "time": "2019-03-08T18:37:26.922136Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:26.924234Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4135 and timestamp 413.562", "time": "2019-03-08T18:37:27.018834Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.020939Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4136 and timestamp 413.664", "time": "2019-03-08T18:37:27.112391Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.114495Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4137 and timestamp 413.757", "time": "2019-03-08T18:37:27.205737Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.207935Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4138 and timestamp 413.859", "time": "2019-03-08T18:37:27.328605Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.330687Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4139 and timestamp 413.960", "time": "2019-03-08T18:37:27.422089Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.424191Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4140 and timestamp 414.062", "time": "2019-03-08T18:37:27.518715Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.520827Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4141 and timestamp 414.164", "time": "2019-03-08T18:37:27.612299Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.614492Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4142 and timestamp 414.257", "time": "2019-03-08T18:37:27.705838Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.707916Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4143 and timestamp 414.359", "time": "2019-03-08T18:37:27.828505Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.830731Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4144 and timestamp 414.460", "time": "2019-03-08T18:37:27.921989Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:27.924091Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4145 and timestamp 414.562", "time": "2019-03-08T18:37:28.018750Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.020859Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4146 and timestamp 414.664", "time": "2019-03-08T18:37:28.112122Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.114226Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4147 and timestamp 414.757", "time": "2019-03-08T18:37:28.205688Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.207802Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4148 and timestamp 414.859", "time": "2019-03-08T18:37:28.328501Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.330730Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4149 and timestamp 414.960", "time": "2019-03-08T18:37:28.421890Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.423987Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4150 and timestamp 415.062", "time": "2019-03-08T18:37:28.518651Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.520759Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4151 and timestamp 415.164", "time": "2019-03-08T18:37:28.612209Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.614347Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4152 and timestamp 415.257", "time": "2019-03-08T18:37:28.705526Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.707753Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4153 and timestamp 415.359", "time": "2019-03-08T18:37:28.828405Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.830507Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4154 and timestamp 415.460", "time": "2019-03-08T18:37:28.921909Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:28.924011Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4155 and timestamp 415.562", "time": "2019-03-08T18:37:29.018542Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.020771Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4156 and timestamp 415.664", "time": "2019-03-08T18:37:29.112042Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.114153Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4157 and timestamp 415.757", "time": "2019-03-08T18:37:29.208796Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.210896Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4158 and timestamp 415.859", "time": "2019-03-08T18:37:29.328302Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.330475Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4159 and timestamp 415.960", "time": "2019-03-08T18:37:29.421814Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.423916Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4160 and timestamp 416.062", "time": "2019-03-08T18:37:29.518585Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.520686Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4161 and timestamp 416.164", "time": "2019-03-08T18:37:29.612059Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.614174Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4162 and timestamp 416.257", "time": "2019-03-08T18:37:29.705535Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.707678Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4163 and timestamp 416.359", "time": "2019-03-08T18:37:29.828335Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.830449Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4164 and timestamp 416.460", "time": "2019-03-08T18:37:29.921836Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:29.923813Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4165 and timestamp 416.562", "time": "2019-03-08T18:37:30.018467Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.020562Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4166 and timestamp 416.664", "time": "2019-03-08T18:37:30.111961Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.114068Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4168 and timestamp 416.859", "time": "2019-03-08T18:37:30.328340Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.335593Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4169 and timestamp 416.960", "time": "2019-03-08T18:37:30.425035Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.427130Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4170 and timestamp 417.062", "time": "2019-03-08T18:37:30.518350Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.520453Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4171 and timestamp 417.164", "time": "2019-03-08T18:37:30.611853Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.613986Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4173 and timestamp 417.359", "time": "2019-03-08T18:37:30.828240Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.830408Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4174 and timestamp 417.460", "time": "2019-03-08T18:37:30.924887Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:30.927036Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4175 and timestamp 417.562", "time": "2019-03-08T18:37:31.018385Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.020474Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4176 and timestamp 417.664", "time": "2019-03-08T18:37:31.111870Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.113986Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4178 and timestamp 417.859", "time": "2019-03-08T18:37:31.328128Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.330237Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4179 and timestamp 417.960", "time": "2019-03-08T18:37:31.424896Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.426995Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4180 and timestamp 418.062", "time": "2019-03-08T18:37:31.518277Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.520370Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4181 and timestamp 418.164", "time": "2019-03-08T18:37:31.611762Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.613881Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4183 and timestamp 418.359", "time": "2019-03-08T18:37:31.828044Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.830206Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4184 and timestamp 418.460", "time": "2019-03-08T18:37:31.924801Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:31.926904Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4185 and timestamp 418.562", "time": "2019-03-08T18:37:32.018172Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.020327Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4186 and timestamp 418.664", "time": "2019-03-08T18:37:32.111664Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.113835Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4188 and timestamp 418.859", "time": "2019-03-08T18:37:32.327931Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.330093Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4189 and timestamp 418.960", "time": "2019-03-08T18:37:32.424812Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.426970Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4190 and timestamp 419.062", "time": "2019-03-08T18:37:32.518180Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.520283Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4191 and timestamp 419.164", "time": "2019-03-08T18:37:32.611687Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.613806Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4193 and timestamp 419.359", "time": "2019-03-08T18:37:32.827947Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.830115Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4194 and timestamp 419.460", "time": "2019-03-08T18:37:32.924720Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:32.926866Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4195 and timestamp 419.562", "time": "2019-03-08T18:37:33.018092Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:33.020254Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4199 and timestamp 419.960", "time": "2019-03-08T18:37:33.424617Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:33.426711Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4200 and timestamp 420.062", "time": "2019-03-08T18:37:33.518106Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:33.520210Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4204 and timestamp 420.460", "time": "2019-03-08T18:37:33.924494Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:33.926780Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4205 and timestamp 420.562", "time": "2019-03-08T18:37:34.018028Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:34.020118Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4209 and timestamp 420.960", "time": "2019-03-08T18:37:34.424579Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:34.426625Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4210 and timestamp 421.062", "time": "2019-03-08T18:37:34.518083Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:34.520136Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4214 and timestamp 421.460", "time": "2019-03-08T18:37:34.924470Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:34.926528Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4215 and timestamp 421.562", "time": "2019-03-08T18:37:35.017940Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:35.020030Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4219 and timestamp 421.960", "time": "2019-03-08T18:37:35.424371Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:35.426550Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4224 and timestamp 422.460", "time": "2019-03-08T18:37:35.924325Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:35.926488Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4225 and timestamp 422.562", "time": "2019-03-08T18:37:36.017863Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:36.019972Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4229 and timestamp 422.960", "time": "2019-03-08T18:37:36.424252Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:36.426476Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4234 and timestamp 423.460", "time": "2019-03-08T18:37:36.924186Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:36.926292Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4239 and timestamp 423.960", "time": "2019-03-08T18:37:37.424167Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:37.426265Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4244 and timestamp 424.460", "time": "2019-03-08T18:37:37.924052Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:37.926160Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4249 and timestamp 424.960", "time": "2019-03-08T18:37:38.423947Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:38.426176Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4268 and timestamp 426.859", "time": "2019-03-08T18:37:40.294495Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:40.296708Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4273 and timestamp 427.359", "time": "2019-03-08T18:37:40.794444Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:40.802143Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4278 and timestamp 427.859", "time": "2019-03-08T18:37:41.294388Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:41.296484Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4283 and timestamp 428.359", "time": "2019-03-08T18:37:41.797602Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:41.799654Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4288 and timestamp 428.859", "time": "2019-03-08T18:37:42.297437Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:42.299613Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4292 and timestamp 429.257", "time": "2019-03-08T18:37:42.700674Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:42.702759Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4293 and timestamp 429.359", "time": "2019-03-08T18:37:42.797404Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:42.799512Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4297 and timestamp 429.757", "time": "2019-03-08T18:37:43.200549Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:43.202785Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4298 and timestamp 429.859", "time": "2019-03-08T18:37:43.297421Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:43.299405Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4302 and timestamp 430.257", "time": "2019-03-08T18:37:43.700559Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:43.702669Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4303 and timestamp 430.359", "time": "2019-03-08T18:37:43.797199Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:43.799426Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4307 and timestamp 430.757", "time": "2019-03-08T18:37:44.200469Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:44.202759Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4308 and timestamp 430.859", "time": "2019-03-08T18:37:44.297236Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:44.299452Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4312 and timestamp 431.257", "time": "2019-03-08T18:37:44.703665Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:44.705897Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4313 and timestamp 431.359", "time": "2019-03-08T18:37:44.797131Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:44.799233Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4317 and timestamp 431.757", "time": "2019-03-08T18:37:45.203624Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:45.205730Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4318 and timestamp 431.859", "time": "2019-03-08T18:37:45.297134Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:45.299243Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4321 and timestamp 432.156", "time": "2019-03-08T18:37:45.606894Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:45.609055Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4322 and timestamp 432.257", "time": "2019-03-08T18:37:45.703531Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:45.705764Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4323 and timestamp 432.359", "time": "2019-03-08T18:37:45.797035Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:45.799136Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4326 and timestamp 432.656", "time": "2019-03-08T18:37:46.106800Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:46.108907Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4327 and timestamp 432.757", "time": "2019-03-08T18:37:46.203547Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:46.205654Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4328 and timestamp 432.859", "time": "2019-03-08T18:37:46.296948Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:46.299043Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4331 and timestamp 433.156", "time": "2019-03-08T18:37:46.606748Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:46.608976Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4332 and timestamp 433.257", "time": "2019-03-08T18:37:46.703455Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:46.705557Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4333 and timestamp 433.359", "time": "2019-03-08T18:37:46.796828Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:46.798931Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4336 and timestamp 433.656", "time": "2019-03-08T18:37:47.106645Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:47.108881Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4337 and timestamp 433.757", "time": "2019-03-08T18:37:47.203467Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:47.205579Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4338 and timestamp 433.859", "time": "2019-03-08T18:37:47.296854Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:47.298953Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4341 and timestamp 434.156", "time": "2019-03-08T18:37:47.606619Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:47.608721Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4342 and timestamp 434.257", "time": "2019-03-08T18:37:47.703217Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:47.705462Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4343 and timestamp 434.359", "time": "2019-03-08T18:37:47.796754Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:47.798852Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4346 and timestamp 434.656", "time": "2019-03-08T18:37:48.109768Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:48.111874Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4347 and timestamp 434.757", "time": "2019-03-08T18:37:48.203249Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:48.205378Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4348 and timestamp 434.859", "time": "2019-03-08T18:37:48.296783Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:48.298884Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4350 and timestamp 435.062", "time": "2019-03-08T18:37:48.513038Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:48.515201Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4351 and timestamp 435.156", "time": "2019-03-08T18:37:48.609801Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:48.611900Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4352 and timestamp 435.257", "time": "2019-03-08T18:37:48.703169Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:48.705397Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4353 and timestamp 435.359", "time": "2019-03-08T18:37:48.796677Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:48.798775Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4355 and timestamp 435.562", "time": "2019-03-08T18:37:49.013050Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.015209Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4356 and timestamp 435.656", "time": "2019-03-08T18:37:49.109700Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.111782Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4357 and timestamp 435.757", "time": "2019-03-08T18:37:49.203184Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.205294Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4358 and timestamp 435.859", "time": "2019-03-08T18:37:49.296698Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.298666Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4360 and timestamp 436.062", "time": "2019-03-08T18:37:49.513016Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.515194Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4361 and timestamp 436.156", "time": "2019-03-08T18:37:49.609758Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.611813Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4362 and timestamp 436.257", "time": "2019-03-08T18:37:49.703156Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.705207Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4363 and timestamp 436.359", "time": "2019-03-08T18:37:49.796659Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:49.798703Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4365 and timestamp 436.562", "time": "2019-03-08T18:37:50.012908Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:50.015009Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4366 and timestamp 436.656", "time": "2019-03-08T18:37:50.109620Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:50.111725Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4368 and timestamp 436.859", "time": "2019-03-08T18:37:50.296498Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:50.298725Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4370 and timestamp 437.062", "time": "2019-03-08T18:37:50.516129Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:50.518397Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4371 and timestamp 437.156", "time": "2019-03-08T18:37:50.609560Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:50.611789Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4372 and timestamp 437.257", "time": "2019-03-08T18:37:50.703070Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:50.705137Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4373 and timestamp 437.359", "time": "2019-03-08T18:37:50.796568Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:50.803373Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4375 and timestamp 437.562", "time": "2019-03-08T18:37:51.016089Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.018193Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4376 and timestamp 437.656", "time": "2019-03-08T18:37:51.109414Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.111644Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4377 and timestamp 437.757", "time": "2019-03-08T18:37:51.203043Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.205150Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4378 and timestamp 437.859", "time": "2019-03-08T18:37:51.296410Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.298563Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4379 and timestamp 437.960", "time": "2019-03-08T18:37:51.419220Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.421411Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4380 and timestamp 438.062", "time": "2019-03-08T18:37:51.515925Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.518038Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4381 and timestamp 438.156", "time": "2019-03-08T18:37:51.609448Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.611546Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4382 and timestamp 438.257", "time": "2019-03-08T18:37:51.702858Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.704919Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4383 and timestamp 438.359", "time": "2019-03-08T18:37:51.796382Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.798431Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4384 and timestamp 438.460", "time": "2019-03-08T18:37:51.919318Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:51.921374Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4385 and timestamp 438.562", "time": "2019-03-08T18:37:52.015881Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.018106Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4386 and timestamp 438.656", "time": "2019-03-08T18:37:52.109409Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.111516Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4387 and timestamp 438.757", "time": "2019-03-08T18:37:52.202956Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.205087Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4388 and timestamp 438.859", "time": "2019-03-08T18:37:52.299541Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.301820Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4389 and timestamp 438.960", "time": "2019-03-08T18:37:52.419287Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.421408Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4390 and timestamp 439.062", "time": "2019-03-08T18:37:52.515921Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.518046Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4391 and timestamp 439.156", "time": "2019-03-08T18:37:52.609296Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.611526Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4392 and timestamp 439.257", "time": "2019-03-08T18:37:52.702863Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.704869Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4393 and timestamp 439.359", "time": "2019-03-08T18:37:52.799491Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.801598Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4394 and timestamp 439.460", "time": "2019-03-08T18:37:52.922229Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:52.924458Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4395 and timestamp 439.562", "time": "2019-03-08T18:37:53.015860Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.017847Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4396 and timestamp 439.656", "time": "2019-03-08T18:37:53.109255Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.111345Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4397 and timestamp 439.757", "time": "2019-03-08T18:37:53.202812Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.204922Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4398 and timestamp 439.859", "time": "2019-03-08T18:37:53.299499Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.301609Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4399 and timestamp 439.960", "time": "2019-03-08T18:37:53.422258Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.424352Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4400 and timestamp 440.054", "time": "2019-03-08T18:37:53.515695Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.517936Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4401 and timestamp 440.156", "time": "2019-03-08T18:37:53.609287Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.611369Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4402 and timestamp 440.257", "time": "2019-03-08T18:37:53.702641Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.704758Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4403 and timestamp 440.359", "time": "2019-03-08T18:37:53.799398Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.801505Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4404 and timestamp 440.460", "time": "2019-03-08T18:37:53.922155Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:53.924376Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4405 and timestamp 440.554", "time": "2019-03-08T18:37:54.015658Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.017893Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4406 and timestamp 440.656", "time": "2019-03-08T18:37:54.109049Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.111270Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4407 and timestamp 440.757", "time": "2019-03-08T18:37:54.202593Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.204726Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4408 and timestamp 440.859", "time": "2019-03-08T18:37:54.299301Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.301411Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4409 and timestamp 440.960", "time": "2019-03-08T18:37:54.422261Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.424364Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4410 and timestamp 441.054", "time": "2019-03-08T18:37:54.515568Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.517673Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4411 and timestamp 441.156", "time": "2019-03-08T18:37:54.609094Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.611304Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4412 and timestamp 441.257", "time": "2019-03-08T18:37:54.702575Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.704700Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4413 and timestamp 441.359", "time": "2019-03-08T18:37:54.799329Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.801439Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4414 and timestamp 441.460", "time": "2019-03-08T18:37:54.922084Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:54.924217Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4415 and timestamp 441.554", "time": "2019-03-08T18:37:55.015570Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.017758Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4416 and timestamp 441.656", "time": "2019-03-08T18:37:55.108972Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.111187Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4417 and timestamp 441.757", "time": "2019-03-08T18:37:55.205774Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.208008Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4418 and timestamp 441.859", "time": "2019-03-08T18:37:55.299280Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.301390Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4419 and timestamp 441.960", "time": "2019-03-08T18:37:55.421976Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.424193Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4420 and timestamp 442.054", "time": "2019-03-08T18:37:55.515469Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.517579Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4421 and timestamp 442.156", "time": "2019-03-08T18:37:55.608993Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.611082Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4422 and timestamp 442.257", "time": "2019-03-08T18:37:55.705732Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.707836Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4423 and timestamp 442.359", "time": "2019-03-08T18:37:55.799237Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.801344Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4424 and timestamp 442.460", "time": "2019-03-08T18:37:55.921996Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:55.924096Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4425 and timestamp 442.554", "time": "2019-03-08T18:37:56.015366Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.017602Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4426 and timestamp 442.656", "time": "2019-03-08T18:37:56.109003Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.110988Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4427 and timestamp 442.757", "time": "2019-03-08T18:37:56.205691Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.207794Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4428 and timestamp 442.859", "time": "2019-03-08T18:37:56.299018Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.301249Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4429 and timestamp 442.960", "time": "2019-03-08T18:37:56.422021Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.423993Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4430 and timestamp 443.054", "time": "2019-03-08T18:37:56.515407Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.517511Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4431 and timestamp 443.156", "time": "2019-03-08T18:37:56.608853Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.611082Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4432 and timestamp 443.257", "time": "2019-03-08T18:37:56.705541Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.707646Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4433 and timestamp 443.359", "time": "2019-03-08T18:37:56.799035Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.801147Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4434 and timestamp 443.460", "time": "2019-03-08T18:37:56.921798Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:56.924029Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4435 and timestamp 443.554", "time": "2019-03-08T18:37:57.015286Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.017392Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4436 and timestamp 443.656", "time": "2019-03-08T18:37:57.108866Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.110967Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4437 and timestamp 443.757", "time": "2019-03-08T18:37:57.205614Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.207716Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4438 and timestamp 443.859", "time": "2019-03-08T18:37:57.298936Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.301040Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4439 and timestamp 443.960", "time": "2019-03-08T18:37:57.421813Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.424031Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4440 and timestamp 444.054", "time": "2019-03-08T18:37:57.515183Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.517299Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4441 and timestamp 444.156", "time": "2019-03-08T18:37:57.612064Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.614176Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4442 and timestamp 444.257", "time": "2019-03-08T18:37:57.705462Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.707561Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4443 and timestamp 444.359", "time": "2019-03-08T18:37:57.798964Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.801071Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4444 and timestamp 444.460", "time": "2019-03-08T18:37:57.921838Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:57.923946Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4445 and timestamp 444.554", "time": "2019-03-08T18:37:58.015288Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.017395Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4446 and timestamp 444.656", "time": "2019-03-08T18:37:58.111989Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.114094Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4447 and timestamp 444.757", "time": "2019-03-08T18:37:58.205374Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.207465Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4448 and timestamp 444.859", "time": "2019-03-08T18:37:58.298864Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.300972Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4449 and timestamp 444.960", "time": "2019-03-08T18:37:58.421730Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.423841Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4450 and timestamp 445.054", "time": "2019-03-08T18:37:58.515117Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.517227Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4451 and timestamp 445.156", "time": "2019-03-08T18:37:58.611881Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.614117Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4452 and timestamp 445.257", "time": "2019-03-08T18:37:58.705389Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.707494Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4453 and timestamp 445.359", "time": "2019-03-08T18:37:58.798779Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.800882Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4454 and timestamp 445.460", "time": "2019-03-08T18:37:58.921658Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:58.923757Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4455 and timestamp 445.554", "time": "2019-03-08T18:37:59.015153Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.017260Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4456 and timestamp 445.656", "time": "2019-03-08T18:37:59.111760Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.113886Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4457 and timestamp 445.757", "time": "2019-03-08T18:37:59.205263Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.207377Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4458 and timestamp 445.859", "time": "2019-03-08T18:37:59.298641Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.300891Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4459 and timestamp 445.960", "time": "2019-03-08T18:37:59.421512Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.423621Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4460 and timestamp 446.054", "time": "2019-03-08T18:37:59.515163Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.517148Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4461 and timestamp 446.156", "time": "2019-03-08T18:37:59.611839Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.613982Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4462 and timestamp 446.257", "time": "2019-03-08T18:37:59.705161Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.707259Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4463 and timestamp 446.359", "time": "2019-03-08T18:37:59.798667Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.800898Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4464 and timestamp 446.460", "time": "2019-03-08T18:37:59.921558Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:37:59.923643Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4465 and timestamp 446.554", "time": "2019-03-08T18:38:00.014920Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.017156Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4466 and timestamp 446.656", "time": "2019-03-08T18:38:00.111696Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.113831Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4467 and timestamp 446.757", "time": "2019-03-08T18:38:00.205188Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.207289Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4468 and timestamp 446.859", "time": "2019-03-08T18:38:00.298556Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.300670Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4469 and timestamp 446.960", "time": "2019-03-08T18:38:00.421444Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.423552Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4470 and timestamp 447.054", "time": "2019-03-08T18:38:00.514953Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.517066Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4471 and timestamp 447.156", "time": "2019-03-08T18:38:00.611656Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.613968Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4474 and timestamp 447.460", "time": "2019-03-08T18:38:00.921400Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:00.927015Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4475 and timestamp 447.554", "time": "2019-03-08T18:38:01.018164Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.020290Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4476 and timestamp 447.656", "time": "2019-03-08T18:38:01.111612Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.113713Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4477 and timestamp 447.757", "time": "2019-03-08T18:38:01.205168Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.207212Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4479 and timestamp 447.960", "time": "2019-03-08T18:38:01.421363Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.423471Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4480 and timestamp 448.054", "time": "2019-03-08T18:38:01.518121Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.520219Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4481 and timestamp 448.156", "time": "2019-03-08T18:38:01.611553Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.613729Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4482 and timestamp 448.257", "time": "2019-03-08T18:38:01.705011Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.707245Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4484 and timestamp 448.460", "time": "2019-03-08T18:38:01.921324Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:01.923377Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4485 and timestamp 448.554", "time": "2019-03-08T18:38:02.018028Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.020181Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4486 and timestamp 448.656", "time": "2019-03-08T18:38:02.111396Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.113502Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4487 and timestamp 448.757", "time": "2019-03-08T18:38:02.204905Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.206994Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4489 and timestamp 448.960", "time": "2019-03-08T18:38:02.421277Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.423255Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4490 and timestamp 449.054", "time": "2019-03-08T18:38:02.517918Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.520030Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4491 and timestamp 449.156", "time": "2019-03-08T18:38:02.611420Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.613520Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4492 and timestamp 449.257", "time": "2019-03-08T18:38:02.704817Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.707043Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4494 and timestamp 449.460", "time": "2019-03-08T18:38:02.921204Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:02.923340Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4495 and timestamp 449.554", "time": "2019-03-08T18:38:03.017822Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:03.020059Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4496 and timestamp 449.656", "time": "2019-03-08T18:38:03.111314Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:03.113425Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4497 and timestamp 449.757", "time": "2019-03-08T18:38:03.208066Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:03.210178Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4499 and timestamp 449.960", "time": "2019-03-08T18:38:03.424310Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:03.426419Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4500 and timestamp 450.054", "time": "2019-03-08T18:38:03.517885Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:03.519931Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4501 and timestamp 450.156", "time": "2019-03-08T18:38:03.611325Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:03.613432Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4504 and timestamp 450.460", "time": "2019-03-08T18:38:03.924342Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:03.926527Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4505 and timestamp 450.554", "time": "2019-03-08T18:38:04.017743Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:04.019827Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4506 and timestamp 450.656", "time": "2019-03-08T18:38:04.111225Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:04.113338Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4509 and timestamp 450.960", "time": "2019-03-08T18:38:04.424245Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:04.426386Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4510 and timestamp 451.054", "time": "2019-03-08T18:38:04.517631Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:04.519861Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4511 and timestamp 451.156", "time": "2019-03-08T18:38:04.611312Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:04.613435Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4514 and timestamp 451.460", "time": "2019-03-08T18:38:04.924209Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:04.926495Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4515 and timestamp 451.554", "time": "2019-03-08T18:38:05.017734Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:05.019773Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4516 and timestamp 451.656", "time": "2019-03-08T18:38:05.111038Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:05.113337Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4519 and timestamp 451.960", "time": "2019-03-08T18:38:05.424215Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:05.426322Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4520 and timestamp 452.054", "time": "2019-03-08T18:38:05.517546Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:05.519642Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4521 and timestamp 452.156", "time": "2019-03-08T18:38:05.611044Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:05.613151Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4524 and timestamp 452.460", "time": "2019-03-08T18:38:05.924050Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:05.926168Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4525 and timestamp 452.554", "time": "2019-03-08T18:38:06.017558Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:06.019727Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4526 and timestamp 452.656", "time": "2019-03-08T18:38:06.111017Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:06.113074Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4529 and timestamp 452.960", "time": "2019-03-08T18:38:06.423960Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:06.426189Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4530 and timestamp 453.054", "time": "2019-03-08T18:38:06.517468Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:06.519568Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4534 and timestamp 453.460", "time": "2019-03-08T18:38:06.923989Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:06.926096Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4535 and timestamp 453.554", "time": "2019-03-08T18:38:07.017495Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:07.019596Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4539 and timestamp 453.960", "time": "2019-03-08T18:38:07.423934Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:07.425988Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4540 and timestamp 454.054", "time": "2019-03-08T18:38:07.517387Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:07.519479Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4544 and timestamp 454.460", "time": "2019-03-08T18:38:07.923831Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:07.925967Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4545 and timestamp 454.554", "time": "2019-03-08T18:38:08.017278Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:08.019375Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4549 and timestamp 454.960", "time": "2019-03-08T18:38:08.423803Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:08.425917Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4550 and timestamp 455.054", "time": "2019-03-08T18:38:08.517180Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:08.519280Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4554 and timestamp 455.460", "time": "2019-03-08T18:38:08.923745Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:08.925855Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4555 and timestamp 455.554", "time": "2019-03-08T18:38:09.017207Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:09.019306Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4559 and timestamp 455.960", "time": "2019-03-08T18:38:09.423765Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:09.425874Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4564 and timestamp 456.460", "time": "2019-03-08T18:38:09.923661Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:09.925773Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4574 and timestamp 457.453", "time": "2019-03-08T18:38:10.923423Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:10.930407Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4579 and timestamp 457.953", "time": "2019-03-08T18:38:11.423523Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:11.425593Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4584 and timestamp 458.453", "time": "2019-03-08T18:38:11.923384Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:11.925626Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4608 and timestamp 460.859", "time": "2019-03-08T18:38:14.293895Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:14.295934Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4613 and timestamp 461.359", "time": "2019-03-08T18:38:14.793583Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:14.795815Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4618 and timestamp 461.859", "time": "2019-03-08T18:38:15.296904Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:15.299001Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4623 and timestamp 462.359", "time": "2019-03-08T18:38:15.796881Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:15.798858Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4628 and timestamp 462.859", "time": "2019-03-08T18:38:16.296795Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:16.298884Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4632 and timestamp 463.257", "time": "2019-03-08T18:38:16.699967Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:16.702114Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4633 and timestamp 463.359", "time": "2019-03-08T18:38:16.796687Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:16.798900Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4637 and timestamp 463.757", "time": "2019-03-08T18:38:17.200003Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:17.202072Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4638 and timestamp 463.859", "time": "2019-03-08T18:38:17.296576Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:17.298683Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4642 and timestamp 464.257", "time": "2019-03-08T18:38:17.699836Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:17.701939Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4643 and timestamp 464.359", "time": "2019-03-08T18:38:17.796647Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:17.798689Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4647 and timestamp 464.757", "time": "2019-03-08T18:38:18.199742Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:18.201957Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4648 and timestamp 464.859", "time": "2019-03-08T18:38:18.296488Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:18.298598Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4652 and timestamp 465.257", "time": "2019-03-08T18:38:18.703028Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:18.705114Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4653 and timestamp 465.359", "time": "2019-03-08T18:38:18.796384Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:18.798619Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4656 and timestamp 465.656", "time": "2019-03-08T18:38:19.106239Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:19.108269Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4657 and timestamp 465.757", "time": "2019-03-08T18:38:19.202924Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:19.205112Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4658 and timestamp 465.859", "time": "2019-03-08T18:38:19.296288Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:19.298555Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4661 and timestamp 466.156", "time": "2019-03-08T18:38:19.606242Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:19.608297Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4662 and timestamp 466.257", "time": "2019-03-08T18:38:19.702799Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:19.705059Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4663 and timestamp 466.359", "time": "2019-03-08T18:38:19.796326Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:19.798437Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4666 and timestamp 466.656", "time": "2019-03-08T18:38:20.106125Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:20.108179Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4667 and timestamp 466.757", "time": "2019-03-08T18:38:20.202829Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:20.204962Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4668 and timestamp 466.859", "time": "2019-03-08T18:38:20.296188Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:20.298327Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4671 and timestamp 467.156", "time": "2019-03-08T18:38:20.606093Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:20.608192Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4672 and timestamp 467.257", "time": "2019-03-08T18:38:20.702748Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:20.704820Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4673 and timestamp 467.359", "time": "2019-03-08T18:38:20.796216Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:20.798375Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4676 and timestamp 467.656", "time": "2019-03-08T18:38:21.110155Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:21.116011Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4677 and timestamp 467.757", "time": "2019-03-08T18:38:21.202691Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:21.204839Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4678 and timestamp 467.859", "time": "2019-03-08T18:38:21.296200Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:21.298324Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4681 and timestamp 468.156", "time": "2019-03-08T18:38:21.609273Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:21.611517Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4682 and timestamp 468.257", "time": "2019-03-08T18:38:21.702724Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:21.704849Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4683 and timestamp 468.359", "time": "2019-03-08T18:38:21.796203Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:21.798334Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4684 and timestamp 468.453", "time": "2019-03-08T18:38:21.889579Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:21.891660Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4686 and timestamp 468.656", "time": "2019-03-08T18:38:22.109280Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.111355Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4687 and timestamp 468.757", "time": "2019-03-08T18:38:22.202616Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.204742Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4688 and timestamp 468.859", "time": "2019-03-08T18:38:22.296163Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.298293Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4689 and timestamp 468.953", "time": "2019-03-08T18:38:22.389547Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.391653Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4690 and timestamp 469.054", "time": "2019-03-08T18:38:22.512280Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.514404Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4691 and timestamp 469.156", "time": "2019-03-08T18:38:22.609035Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.611158Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4692 and timestamp 469.257", "time": "2019-03-08T18:38:22.702523Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.704716Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4693 and timestamp 469.359", "time": "2019-03-08T18:38:22.795919Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.798223Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4694 and timestamp 469.453", "time": "2019-03-08T18:38:22.892691Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:22.894804Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4695 and timestamp 469.554", "time": "2019-03-08T18:38:23.012310Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.014432Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4696 and timestamp 469.656", "time": "2019-03-08T18:38:23.108957Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.111200Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4697 and timestamp 469.757", "time": "2019-03-08T18:38:23.202450Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.204566Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4698 and timestamp 469.859", "time": "2019-03-08T18:38:23.295830Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.298106Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4699 and timestamp 469.953", "time": "2019-03-08T18:38:23.392600Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.394835Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4700 and timestamp 470.054", "time": "2019-03-08T18:38:23.512214Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.514341Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4701 and timestamp 470.156", "time": "2019-03-08T18:38:23.608969Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.611088Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4702 and timestamp 470.257", "time": "2019-03-08T18:38:23.702348Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.704471Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4703 and timestamp 470.359", "time": "2019-03-08T18:38:23.795852Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.797976Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4704 and timestamp 470.453", "time": "2019-03-08T18:38:23.892476Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:23.894716Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4705 and timestamp 470.554", "time": "2019-03-08T18:38:24.015351Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.017472Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4706 and timestamp 470.656", "time": "2019-03-08T18:38:24.108865Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.110979Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4707 and timestamp 470.757", "time": "2019-03-08T18:38:24.202372Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.204476Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4708 and timestamp 470.859", "time": "2019-03-08T18:38:24.295735Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.297859Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4709 and timestamp 470.953", "time": "2019-03-08T18:38:24.392494Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.394619Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4710 and timestamp 471.054", "time": "2019-03-08T18:38:24.515249Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.517500Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4711 and timestamp 471.156", "time": "2019-03-08T18:38:24.608825Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.610936Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4712 and timestamp 471.257", "time": "2019-03-08T18:38:24.702272Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.704380Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4713 and timestamp 471.359", "time": "2019-03-08T18:38:24.795628Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.797874Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4714 and timestamp 471.453", "time": "2019-03-08T18:38:24.892511Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:24.894653Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4715 and timestamp 471.554", "time": "2019-03-08T18:38:25.015330Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.017458Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4716 and timestamp 471.656", "time": "2019-03-08T18:38:25.108686Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.110910Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4717 and timestamp 471.757", "time": "2019-03-08T18:38:25.202357Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.204353Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4718 and timestamp 471.859", "time": "2019-03-08T18:38:25.298921Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.301046Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4719 and timestamp 471.953", "time": "2019-03-08T18:38:25.392426Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.394551Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4720 and timestamp 472.054", "time": "2019-03-08T18:38:25.515295Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.517289Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4721 and timestamp 472.156", "time": "2019-03-08T18:38:25.608699Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.610802Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4722 and timestamp 472.257", "time": "2019-03-08T18:38:25.702053Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.704298Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4723 and timestamp 472.359", "time": "2019-03-08T18:38:25.798931Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.801061Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4724 and timestamp 472.453", "time": "2019-03-08T18:38:25.892313Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:25.894505Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4725 and timestamp 472.554", "time": "2019-03-08T18:38:26.015258Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.017322Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4726 and timestamp 472.656", "time": "2019-03-08T18:38:26.108596Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.110694Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4727 and timestamp 472.757", "time": "2019-03-08T18:38:26.202080Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.204319Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4728 and timestamp 472.859", "time": "2019-03-08T18:38:26.298831Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.300956Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4729 and timestamp 472.953", "time": "2019-03-08T18:38:26.392334Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.394446Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4730 and timestamp 473.054", "time": "2019-03-08T18:38:26.515083Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.517341Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4731 and timestamp 473.156", "time": "2019-03-08T18:38:26.608600Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.610711Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4732 and timestamp 473.257", "time": "2019-03-08T18:38:26.701963Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.704200Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4733 and timestamp 473.359", "time": "2019-03-08T18:38:26.798721Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.800843Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4734 and timestamp 473.453", "time": "2019-03-08T18:38:26.892219Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:26.894342Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4735 and timestamp 473.554", "time": "2019-03-08T18:38:27.014983Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.017230Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4736 and timestamp 473.656", "time": "2019-03-08T18:38:27.108508Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.110623Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4737 and timestamp 473.757", "time": "2019-03-08T18:38:27.202008Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.204124Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4738 and timestamp 473.859", "time": "2019-03-08T18:38:27.298633Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.300878Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4739 and timestamp 473.953", "time": "2019-03-08T18:38:27.392128Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.394375Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4740 and timestamp 474.054", "time": "2019-03-08T18:38:27.515038Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.517154Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4741 and timestamp 474.156", "time": "2019-03-08T18:38:27.608540Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.610643Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4742 and timestamp 474.257", "time": "2019-03-08T18:38:27.701995Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.704085Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4743 and timestamp 474.351", "time": "2019-03-08T18:38:27.798683Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.800806Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4744 and timestamp 474.453", "time": "2019-03-08T18:38:27.892056Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:27.894305Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4745 and timestamp 474.554", "time": "2019-03-08T18:38:28.014929Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.017052Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4746 and timestamp 474.656", "time": "2019-03-08T18:38:28.108453Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.110553Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4747 and timestamp 474.757", "time": "2019-03-08T18:38:28.201836Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.204059Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4748 and timestamp 474.851", "time": "2019-03-08T18:38:28.298585Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.300700Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4749 and timestamp 474.953", "time": "2019-03-08T18:38:28.392081Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.394198Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4750 and timestamp 475.054", "time": "2019-03-08T18:38:28.514836Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.517075Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4751 and timestamp 475.156", "time": "2019-03-08T18:38:28.608526Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.610512Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4752 and timestamp 475.257", "time": "2019-03-08T18:38:28.705098Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.707191Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4753 and timestamp 475.351", "time": "2019-03-08T18:38:28.798588Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.800703Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4754 and timestamp 475.453", "time": "2019-03-08T18:38:28.891966Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:28.894074Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4755 and timestamp 475.554", "time": "2019-03-08T18:38:29.014859Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.016975Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4756 and timestamp 475.656", "time": "2019-03-08T18:38:29.108246Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.110478Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4757 and timestamp 475.757", "time": "2019-03-08T18:38:29.205064Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.207163Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4758 and timestamp 475.851", "time": "2019-03-08T18:38:29.298504Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.300619Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4759 and timestamp 475.953", "time": "2019-03-08T18:38:29.392004Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.394109Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4760 and timestamp 476.054", "time": "2019-03-08T18:38:29.514820Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.517063Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4761 and timestamp 476.156", "time": "2019-03-08T18:38:29.608260Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.610363Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4762 and timestamp 476.257", "time": "2019-03-08T18:38:29.705021Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.707110Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4763 and timestamp 476.351", "time": "2019-03-08T18:38:29.798398Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.800495Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4764 and timestamp 476.453", "time": "2019-03-08T18:38:29.891895Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:29.894004Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4765 and timestamp 476.554", "time": "2019-03-08T18:38:30.014665Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.016891Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4766 and timestamp 476.656", "time": "2019-03-08T18:38:30.108159Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.110271Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4767 and timestamp 476.757", "time": "2019-03-08T18:38:30.204922Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.207005Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4768 and timestamp 476.851", "time": "2019-03-08T18:38:30.298283Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.300511Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4769 and timestamp 476.953", "time": "2019-03-08T18:38:30.391793Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.393903Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4770 and timestamp 477.054", "time": "2019-03-08T18:38:30.514675Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.516790Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4771 and timestamp 477.156", "time": "2019-03-08T18:38:30.608051Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.610291Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4772 and timestamp 477.257", "time": "2019-03-08T18:38:30.704813Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.706915Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4773 and timestamp 477.351", "time": "2019-03-08T18:38:30.798317Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.800541Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4774 and timestamp 477.453", "time": "2019-03-08T18:38:30.891693Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:30.893954Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4775 and timestamp 477.554", "time": "2019-03-08T18:38:31.014576Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.016696Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4776 and timestamp 477.656", "time": "2019-03-08T18:38:31.111323Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.116990Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4777 and timestamp 477.757", "time": "2019-03-08T18:38:31.204846Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.206934Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4778 and timestamp 477.851", "time": "2019-03-08T18:38:31.298246Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.300322Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4779 and timestamp 477.953", "time": "2019-03-08T18:38:31.391717Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.393831Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4780 and timestamp 478.054", "time": "2019-03-08T18:38:31.514595Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.516710Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4781 and timestamp 478.156", "time": "2019-03-08T18:38:31.611220Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.613460Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4782 and timestamp 478.257", "time": "2019-03-08T18:38:31.704725Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.706834Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4783 and timestamp 478.351", "time": "2019-03-08T18:38:31.798229Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.800341Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4784 and timestamp 478.453", "time": "2019-03-08T18:38:31.920992Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:31.923095Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4785 and timestamp 478.554", "time": "2019-03-08T18:38:32.014496Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.016611Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4786 and timestamp 478.656", "time": "2019-03-08T18:38:32.111245Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.113357Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4787 and timestamp 478.757", "time": "2019-03-08T18:38:32.204652Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.206861Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4788 and timestamp 478.851", "time": "2019-03-08T18:38:32.298260Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.300351Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4789 and timestamp 478.953", "time": "2019-03-08T18:38:32.421019Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.423113Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4790 and timestamp 479.054", "time": "2019-03-08T18:38:32.514384Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.516626Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4791 and timestamp 479.156", "time": "2019-03-08T18:38:32.611196Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.613306Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4792 and timestamp 479.257", "time": "2019-03-08T18:38:32.704669Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.706760Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4793 and timestamp 479.351", "time": "2019-03-08T18:38:32.798152Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.800251Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4794 and timestamp 479.453", "time": "2019-03-08T18:38:32.920984Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:32.923082Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4795 and timestamp 479.554", "time": "2019-03-08T18:38:33.014427Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.016536Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4796 and timestamp 479.656", "time": "2019-03-08T18:38:33.111111Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.113347Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4797 and timestamp 479.757", "time": "2019-03-08T18:38:33.204628Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.206729Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4798 and timestamp 479.851", "time": "2019-03-08T18:38:33.298053Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.300150Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4799 and timestamp 479.953", "time": "2019-03-08T18:38:33.420818Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.423039Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4800 and timestamp 480.054", "time": "2019-03-08T18:38:33.514317Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.516419Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4801 and timestamp 480.156", "time": "2019-03-08T18:38:33.611064Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.613182Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4802 and timestamp 480.257", "time": "2019-03-08T18:38:33.704558Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.706673Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4803 and timestamp 480.351", "time": "2019-03-08T18:38:33.797936Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.800168Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4804 and timestamp 480.453", "time": "2019-03-08T18:38:33.920899Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:33.923038Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4805 and timestamp 480.554", "time": "2019-03-08T18:38:34.014261Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.016376Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4806 and timestamp 480.656", "time": "2019-03-08T18:38:34.110984Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.113086Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4807 and timestamp 480.757", "time": "2019-03-08T18:38:34.204469Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.206691Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4809 and timestamp 480.953", "time": "2019-03-08T18:38:34.420714Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.422815Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4810 and timestamp 481.054", "time": "2019-03-08T18:38:34.517464Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.519569Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4811 and timestamp 481.156", "time": "2019-03-08T18:38:34.610840Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.613076Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4812 and timestamp 481.257", "time": "2019-03-08T18:38:34.704344Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.706456Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4814 and timestamp 481.453", "time": "2019-03-08T18:38:34.920736Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:34.922837Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4815 and timestamp 481.554", "time": "2019-03-08T18:38:35.017341Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.019459Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4816 and timestamp 481.656", "time": "2019-03-08T18:38:35.110863Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.112974Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4817 and timestamp 481.757", "time": "2019-03-08T18:38:35.204250Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.206479Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4819 and timestamp 481.953", "time": "2019-03-08T18:38:35.420646Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.422747Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4820 and timestamp 482.054", "time": "2019-03-08T18:38:35.517363Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.519483Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4821 and timestamp 482.156", "time": "2019-03-08T18:38:35.610754Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.612990Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4822 and timestamp 482.257", "time": "2019-03-08T18:38:35.704271Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.706385Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4824 and timestamp 482.453", "time": "2019-03-08T18:38:35.920599Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:35.922828Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4825 and timestamp 482.554", "time": "2019-03-08T18:38:36.017296Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:36.019400Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4826 and timestamp 482.656", "time": "2019-03-08T18:38:36.110793Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:36.112955Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4827 and timestamp 482.757", "time": "2019-03-08T18:38:36.204169Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:36.206330Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4829 and timestamp 482.953", "time": "2019-03-08T18:38:36.420555Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:36.422663Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4830 and timestamp 483.054", "time": "2019-03-08T18:38:36.517179Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:36.519410Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4831 and timestamp 483.156", "time": "2019-03-08T18:38:36.610680Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:36.612851Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4832 and timestamp 483.257", "time": "2019-03-08T18:38:36.704188Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:36.706437Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4835 and timestamp 483.554", "time": "2019-03-08T18:38:37.017204Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:37.019362Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4836 and timestamp 483.656", "time": "2019-03-08T18:38:37.110592Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:37.112818Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4837 and timestamp 483.757", "time": "2019-03-08T18:38:37.204089Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:37.206192Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4840 and timestamp 484.054", "time": "2019-03-08T18:38:37.517115Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:37.519272Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4841 and timestamp 484.156", "time": "2019-03-08T18:38:37.610668Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:37.612726Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4845 and timestamp 484.554", "time": "2019-03-08T18:38:38.017062Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:38.019360Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4846 and timestamp 484.656", "time": "2019-03-08T18:38:38.110567Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:38.112636Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4850 and timestamp 485.054", "time": "2019-03-08T18:38:38.517074Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:38.519294Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4851 and timestamp 485.156", "time": "2019-03-08T18:38:38.610525Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:38.612633Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4855 and timestamp 485.554", "time": "2019-03-08T18:38:39.016970Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:39.019021Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4856 and timestamp 485.656", "time": "2019-03-08T18:38:39.110410Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:39.112520Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4860 and timestamp 486.054", "time": "2019-03-08T18:38:39.516953Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:39.519041Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4861 and timestamp 486.156", "time": "2019-03-08T18:38:39.610436Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:39.612545Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4865 and timestamp 486.554", "time": "2019-03-08T18:38:40.016835Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:40.018941Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4870 and timestamp 487.054", "time": "2019-03-08T18:38:40.516739Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:40.518846Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4875 and timestamp 487.554", "time": "2019-03-08T18:38:41.016808Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:41.018993Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4881 and timestamp 488.156", "time": "2019-03-08T18:38:41.610480Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:41.618478Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4882 and timestamp 488.257", "time": "2019-03-08T18:38:41.700466Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:41.702706Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4883 and timestamp 488.351", "time": "2019-03-08T18:38:41.858053Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:41.860150Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4884 and timestamp 488.453", "time": "2019-03-08T18:38:41.923304Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:41.925536Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4885 and timestamp 488.554", "time": "2019-03-08T18:38:42.016579Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:42.018680Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4887 and timestamp 488.757", "time": "2019-03-08T18:38:42.329843Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:42.331935Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4889 and timestamp 488.953", "time": "2019-03-08T18:38:42.418205Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:42.420312Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4890 and timestamp 489.054", "time": "2019-03-08T18:38:42.516454Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:42.518700Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4892 and timestamp 489.257", "time": "2019-03-08T18:38:42.700335Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:42.702445Z", "nodeid": "52739"}
+{"value": "Received packet with sequence number 4894 and timestamp 489.453", "time": "2019-03-08T18:38:42.920599Z", "nodeid": "52739"}
+{"value": "Size: 12 and Rate: 6553", "time": "2019-03-08T18:38:42.922822Z", "nodeid": "52739"}
