@@ -2,12 +2,12 @@ import csv
 
 R_TIMER_SEC = 65536
 duration = 120
-
+                                                                                    
 def main():
     arrayOfPacketNums = []
     arrayOfTimeStamps = []
 
-    with open('./data/3.3/1_64_mac_26_d_2-1.csv', 'r') as csvfile:
+    with open('./data/3.4.3/100_64_nullrdc_25_d_20-2.csv', 'r') as csvfile:
         csvreader = csv.reader(csvfile)
         for row in csvreader:
             if "Size" in row[0]:
@@ -16,7 +16,7 @@ def main():
                 #sendingRate = R_TIMER_SEC 
                 packetSize = int(attributes[2])
                 sendingRate = int((attributes[5])[:-1])
-                print(sendingRate)
+                # print(sendingRate)
             else:
                 packetNumAndTimeStamp = row[0].split()
                 packetNum = packetNumAndTimeStamp[6]
@@ -32,10 +32,10 @@ def getThroughput(arrayOfPacketNums, arrayOfTimeStamps, packetSize):
 
 def getLossRatio(arrayOfPacketNums, sendingRate):
     # totalPackets = 3 minutes * 60 secondss * sendingRate
-    print(sendingRate)
-    totalPackets = duration * R_TIMER_SEC / sendingRate
-    print(totalPackets)
-    print(len(arrayOfPacketNums))
+    # print(sendingRate)
+    totalPackets = duration * (R_TIMER_SEC / sendingRate)
+    # print(totalPackets)
+    # print(len(arrayOfPacketNums))
     return (totalPackets - len(arrayOfPacketNums)) / totalPackets
 
 if __name__ == "__main__":
